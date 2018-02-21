@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My application</string>
+    <string name="moreinfo">more information</string>
+    <string name="dialog">for more info about this training task. \n please visit 1MAC discussion forums!</string>
+    <string name="visitforums">visit forums</string>
+    <string name="notnow">not now</string>
+</resources>
